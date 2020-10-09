@@ -41,18 +41,17 @@ body {
 	padding-right: 50px;
 }
 
-#f1 {
+#footer {
 	clear: both;
 	padding: 10px;
 	background-color: #999999;
 	color: white;
+}
+
+#f1 {
 	text-align: left;
 }
 
 #f2 {
-	clear: both;
-	padding: 10px;
-	background-color: #999999;
-	color: white;
 	text-align: right;
 }
