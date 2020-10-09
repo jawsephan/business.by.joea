@@ -41,7 +41,15 @@ body {
 	padding-right: 50px;
 }
 
-#footer {
+#f1 {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: left;
+}
+
+#f2 {
 	clear: both;
 	padding: 10px;
 	background-color: #999999;
